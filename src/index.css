@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.link_text_color {
+    color: #279AF1;
+}
