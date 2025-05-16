@@ -5,7 +5,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sylvanfranklin/portfolio.git
+   git clone https://github.com/SwannAlley/personal.git
    cd portfolio
 2. Install dependencies:
    ```bash
